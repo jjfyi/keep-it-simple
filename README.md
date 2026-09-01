@@ -1,25 +1,18 @@
-> **Draft branding preview.** These three treatments are shown at GitHub's natural README width so we can choose one before finalizing the repository header.
-
-### Option A — Paper card
-
-<a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-header-paper.svg" alt="JJFYI — visit JJFYI on Substack"></a>
-
-### Option B — Cobalt band
-
-<a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-header-cobalt.svg" alt="JJFYI — visit JJFYI on Substack"></a>
-
-### Option C — Ivory rail
-
-<a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-header-rail.svg" alt="JJFYI — visit JJFYI on Substack"></a>
-
-<p align="center">
-  <strong>A JJFYI project</strong><br>
-  <a href="https://jjfyi.substack.com/">Visit JJFYI on Substack</a>
-</p>
+# keep-it-simple ![Agent skill: instruction-only](https://img.shields.io/badge/agent_skill-instruction--only-173D6D?labelColor=252422&style=flat-square)
 
 ---
 
-# keep-it-simple
+<a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-mark.svg" alt="JJFYI" align="right" width="92"></a>
+
+**A JJFYI project**
+
+JJFYI is where I follow my curiosity through experience and research, then share what I learn in case you find it useful.
+
+[Visit JJFYI on Substack](https://jjfyi.substack.com/)
+
+<br clear="right">
+
+---
 
 `keep-it-simple` is a small, instruction-only agent skill for skill development and lightweight coding work. It asks an AI agent to understand the task first, then choose the smallest clear solution that fully meets the request.
 
@@ -40,4 +33,4 @@ The full operating rules will be included in `SKILL.md` when the repository is f
 
 ## Status
 
-This repository is temporarily showing draft JJFYI header treatments. The selected header and the complete skill package will replace this preview.
+This is an initial public draft. The complete skill package will replace this preview once the repository treatment is settled.
