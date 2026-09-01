@@ -2,14 +2,11 @@
 
 ---
 
-<a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-mark.svg" alt="JJFYI" align="right" width="92"></a>
+<a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-mark.svg" alt="JJFYI" align="right" width="56"></a>
 
-**A JJFYI project**
-
-JJFYI is where I follow my curiosity through experience and research, then share what I learn in case you find it useful.
-
+**A JJFYI project**<br />
+JJFYI is where I follow my curiosity, then share what I learn.
 [Visit JJFYI on Substack](https://jjfyi.substack.com/)
-
 <br clear="right">
 
 ---
