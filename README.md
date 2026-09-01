@@ -5,8 +5,7 @@
 <a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-mark.svg" alt="JJFYI" align="right" width="56"></a>
 
 **A JJFYI project**<br />
-JJFYI is where I follow my curiosity, then share what I learn.
-[Visit JJFYI on Substack](https://jjfyi.substack.com/)
+JJFYI is where I follow my curiosity, then share what I learn. [Visit JJFYI on Substack](https://jjfyi.substack.com/)
 <br clear="right">
 
 ---
