@@ -1,14 +1,12 @@
 # keep-it-simple ![Agent skill: instruction-only](https://img.shields.io/badge/agent_skill-instruction--only-173D6D?labelColor=252422&style=flat-square)
 
----
-
+<hr>
 <a href="https://jjfyi.substack.com/"><img src="jjfyi-readme-mark.svg" alt="JJFYI" align="right" width="56"></a>
 
 **A JJFYI project**<br />
 JJFYI is where I follow my curiosity, then share what I learn. [Visit JJFYI on Substack](https://jjfyi.substack.com/)
 <br clear="right">
-
----
+<hr>
 
 `keep-it-simple` is a small, instruction-only agent skill for skill development and lightweight coding work. It asks an AI agent to understand the task first, then choose the smallest clear solution that fully meets the request.
 
