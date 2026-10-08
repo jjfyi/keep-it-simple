@@ -86,13 +86,13 @@ Redesign the architecture of this distributed payments platform.
 
 - `SKILL.md` — authoritative agent instructions.
 - `README.md` — installation and user overview.
-- `THIRD_PARTY_NOTICES.md` — Ponytail attribution and upstream license.
+- `THIRD_PARTY_NOTICES.md` — upstream attribution and license notices.
 
 No configuration, scripts, state, or runtime dependencies are required.
 
 ## Attribution
 
-Inspired by [Ponytail](https://github.com/DietrichGebert/ponytail) by DietrichGebert. See `THIRD_PARTY_NOTICES.md`.
+The simplicity ladder is adapted from [Ponytail](https://github.com/DietrichGebert/ponytail) by DietrichGebert. Guidance on assumptions, focused changes, and verification is adapted from [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills), inspired by observations from Andrej Karpathy. See `THIRD_PARTY_NOTICES.md`.
 
 ## License
 

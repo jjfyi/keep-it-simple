@@ -103,7 +103,7 @@ This is an initial public draft. The skill is structurally valid; representative
 
 ## Attribution
 
-This project is inspired by [Ponytail](https://github.com/DietrichGebert/ponytail) by DietrichGebert and adapts its simplicity-ladder idea for a narrower, instruction-only skill. Ponytail is not a runtime dependency. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+This project is inspired by [Ponytail](https://github.com/DietrichGebert/ponytail) by DietrichGebert and adapts its simplicity-ladder idea for a narrower, instruction-only skill. Guidance on assumptions, focused changes, and verification is adapted from [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills), inspired by observations from Andrej Karpathy. Neither upstream project is a runtime dependency. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## License
 
